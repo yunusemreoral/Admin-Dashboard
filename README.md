@@ -3,6 +3,7 @@
 <li>Bu proje React ve Next.js ile hazırlanmış admin-dashboard sitesidir.</li>
 <li>Ürün yönetimini kolaylaştırmak amacıyla tasarlanmıştır.(düzenle,ekleme,silme,stok)</li>
 <li>Modal yapısı entegre edilerek kullanıcı yönetimi sağlanmıştır.</li>
+<li>Kullanıcı sipariş detayları listelenmiştir.</li>
 <li>React-Chart.js kütüphanesi ile modern grafiklerle veriler görüntülenmiştir.</li>
 <li>Kullanıcı dostu modern responsive tasarımı vardır.</li>
 
